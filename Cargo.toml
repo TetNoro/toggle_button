@@ -7,7 +7,7 @@ license = "MIT"
 description = "a minimal toggle_button create with ratatui" 
 homepage = "https://github.com/TetNoro/toggle_button"
 repository = "https://github.com/TetNoro/toggle_button.git"
-keywords = ["ratatui", "toggle button"]
+keywords = ["ratatui", "toggle-button"]
 readme = "README.md"
 
 [dependencies]
