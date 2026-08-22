@@ -1,7 +1,14 @@
 [package]
 name = "ratatui_minimal_toggle_button"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
+authors = ["Tet Noro"]
+license = "MIT"
+description = "a minimal toggle_button create with ratatui" 
+homepage = "https://github.com/TetNoro/toggle_button"
+repository = "https://github.com/TetNoro/toggle_button.git"
+keywords = ["ratatui", "toggle button"]
+readme = "README.md"
 
 [dependencies]
 ratatui = "0.30.2"
